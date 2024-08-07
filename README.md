@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EmmaMeeus
-- 👀 I’m interested in data science, ML and computer vision.
 - 🌱 Senior Data Scientist, PhD
 
 
